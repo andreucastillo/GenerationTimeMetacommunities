@@ -12,10 +12,16 @@ Metacommunities, as sets of communities linked by dispersal, are structured by a
 # Files:
 
 Settings and landscapes
-- 
+- startLand.R (create landscapes with one environmental variable for the simulations; random fields)
+- startSim.R (set metacommunity paramenters and prepare all the settings for the simulations)
 
 Run simulations
-
-
+- sim.jl (run simulations in julia)
 
 Analyze simulation output
+- cutSim.R (reduce the size of the simulation output for analyzing data)
+- anaSim.R (analyze metacommunities)
+- resSim.R (plots)
+
+Useful functions
+- functionSim.R (additional R functions used in the other codes)
