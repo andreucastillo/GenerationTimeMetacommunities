@@ -20,7 +20,7 @@ Run simulations
 
 Analyze simulation output
 - cutSim.R (reduce the size of the simulation output for analyzing data)
-- anaSim.R (analyze metacommunities)
+- anaSim.R (analyze metacommunities; estimate community stability, diversity and environmentl fitting)
 - resSim.R (plots)
 
 Useful functions
